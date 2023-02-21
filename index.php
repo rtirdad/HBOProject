@@ -37,9 +37,9 @@
     </nav>
 
     <div class="container">
-        <div class="row m-4">
+        <div class="row mt-4">
             <div class="col-md-12 text-center">
-                <h1>Goede Morgen allemaal dit is onze informatie pagina</h1>
+                <h1>Goede Morgen allemaal dit is onze <b>informatie</b> pagina</h1>
             </div>
         </div>
 
@@ -47,57 +47,55 @@
             <div class="col-md-6 p-5">
                 <div class="card border-0">
                     <a href="onderzoek.php">
-                        <img class="card-img-top img-fluid max-width: 20%" src="img/onderzoek1.jpg" alt="Card image cap">
+                        <img class="card-img-top img-fluid max-width: 20%" style="height:400px" src="img/onderzoek1.jpg" alt="Card image cap">
                     </a>
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center">Onze onderzoek vragen</h5>
+                    <h2 class="card-title text-center">Onze onderzoek vragen</h2>
                 </div>
             </div>
             <div class="col-md-6 p-5">
                 <div class="card border-0">
                     <a href="onderzoek.php">
-                        <img class="card-img-top img-fluid max-width: 20%" src="img/Vraag.jpg" alt="Card image cap">
+                        <img class="card-img-top img-fluid max-width: 20%" style="height:400px" src="img/Vraag.jpg" alt="Card image cap">
                     </a>
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title text-center">Onze onderzoek vragen</h5>
+                    <h2 class="card-title text-center">antwoord op de hoofdvragen</h2>
                 </div>
             </div>
         </div>
 
         <div class="row">
-            <div class="col-md-12 p-2">
+            <div class="col-md-12 mb-5">
                 <h1 class="text-center">Review</h1>
             </div>
 
         </div>
     </div>
 
-<!--    <div class="row bg-secondary">-->
-<!--           <div class="container">-->
-<!--               <div class="row text-center">-->
-<!--                   <div class="col-md-3">-->
-<!--                       <p text-muted>Login</p>-->
-<!--                   </div>-->
-<!--                   <div class="col-md-3">-->
-<!--                       <p text-muted>Login</p>-->
-<!--                   </div>-->
-<!--                   <div class="col-md-3">-->
-<!--                       <p text-muted>Login</p>-->
-<!--                   </div>-->
-<!--                   <div class="col-md-3">-->
-<!--                       <p text-muted>Login</p>-->
-<!--                   </div>-->
-<!--               </div>-->
-<!--           </div>-->
-<!--    </div>-->
-    <!-- Footer -->
     <footer class="text-center text-lg-start bg-light text-muted">
 
-        <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+        <section class="d-flex justify-content-center justify-content-lg-between p-2 border-bottom">
             <div class="container text-center text-md-start mt-5">
-                
+                <div class="row text-center">
+                    <div class="col-md-4">
+                        <a class="text-decoration-none text-secondary" href="about.php"><h5>About</h5></a>
+
+                    </div>
+                    <div class="col-md-4">
+                        <a class="text-decoration-none text-secondary" href="about.php"><h5>Contact</h5></a>
+
+                    </div>
+                    <div class="col-md-4">
+                        <a class="text-decoration-none text-secondary" href="about.php"><h5>Information</h5></a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="text-center">@2022 HBO Voorbereiding All Rights Reserved.</p>
+                    </div>
+                </div>
             </div>
         </section>
 
