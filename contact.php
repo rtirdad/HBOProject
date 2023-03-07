@@ -43,15 +43,14 @@
             </div>
         </div>
 
-        <div class="row">
+        <div class="row m-3">
             <div class="col-md-6">
 
             </div>
             <div class="col-md-6">
-                <div id="map-container-google-1" class="z-depth-1-half map-container" style="height: 500px">
-                    <iframe src="https://maps.google.com/maps?q=denhaag&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
-                            style="border:0" allowfullscreen></iframe>
-                </div>
+                <div class="embed-responsive embed-responsive-100x400px">
+                <iframe src="https://maps.google.com/maps?q=denhaag&t=&z=13&ie=UTF8&iwloc=&output=embed" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
             </div>
 
         </div>
@@ -69,11 +68,11 @@
 
                     </div>
                     <div class="col-md-4">
-                        <a class="text-decoration-none text-secondary" href="about.php"><h5>Contact</h5></a>
+                        <a class="text-decoration-none text-secondary" href="contact.php"><h5>Contact</h5></a>
 
                     </div>
                     <div class="col-md-4">
-                        <a class="text-decoration-none text-secondary" href="about.php"><h5>Information</h5></a>
+                        <a class="text-decoration-none text-secondary" href="index.php"><h5>Information</h5></a>
                     </div>
                 </div>
                 <div class="row">

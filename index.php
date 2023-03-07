@@ -29,7 +29,7 @@
                         <a class="nav-link" href="contact.php">Contact</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="info.php">Information</a>
+                        <a class="nav-link" href="index.php">Information</a>
                     </li>
                 </ul>
             </div>
@@ -56,7 +56,7 @@
             </div>
             <div class="col-md-6 p-5">
                 <div class="card border-0">
-                    <a href="onderzoek.php">
+                    <a href="hoofdvraag.php">
                         <img class="card-img-top img-fluid max-width: 20%" style="height:400px" src="img/Vraag.jpg" alt="Card image cap">
                     </a>
                 </div>
