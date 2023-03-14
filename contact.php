@@ -29,7 +29,7 @@
                         <a class="nav-link" href="contact.php">Contact</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="info.php">Information</a>
+                        <a class="nav-link" href="index.php">Information</a>
                     </li>
                 </ul>
             </div>
@@ -43,8 +43,15 @@
             </div>
         </div>
 
-        <div class="row m-3">
-            <div class="col-md-6">
+        <div class="row m-3 text-center">
+            <div class="col-md-6 pt-5 mt-5">
+                <h5><b>Roc Mondriaan</b></h5>
+                adres: Tinwerf 16, 2544 ED Den Haag <br>
+                telefone: 088 666 3600 <br>
+                <h5 class="pt-4"><b>Haagse Hogeschool</b></h5>
+                adres: Johanna Westerdijkplein 75, 2521 EN Den Haag <br>
+                telefone:  070 445 8888 <br>
+
 
             </div>
             <div class="col-md-6">

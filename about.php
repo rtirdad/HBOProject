@@ -62,7 +62,7 @@
                 <div class="card border-0">
                     <div class="card-body">
                         <h2 class="card-title text-center">Waarom maken we deze website</h2>
-                        <p class="card-text">Wij maken deze website van wegen onze keuzedeel. </p>
+                        <p class="card-text">Wij maken deze website van wegen onze keuzedeel. Bij de keuzedeel HBO-voorbereiding is onze project om meer te leren over wat er in hbo zit en ons te voorbereiden voor later als we ernaar toe wilt.</p>
                     </div>
                 </div>
             </div>
@@ -70,7 +70,7 @@
                 <div class="card border-0">
                     <div class="card-body">
                         <h2 class="card-title text-center">wat bevat dit website</h2>
-                        <p class="card-text"></p>
+                        <p class="card-text">Op 4 februari waren twee teamleden van onze groep naar de open dag van De Haagse hogeschool gegaan. We hadden als een groep 14 interview vragen bedacht en bij de open dag, hadden de twee teamleden de student en docenten geïnterviewd. Dit website bevat de informatie die we als group hebben gevonden door onze onderzoek en de interview. </p>
                     </div>
                 </div>
             </div>

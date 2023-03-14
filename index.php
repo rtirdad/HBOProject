@@ -51,7 +51,7 @@
                     </a>
                 </div>
                 <div class="card-body">
-                    <h2 class="card-title text-center">Onze onderzoek vragen</h2>
+                    <h2 class="card-title text-center">Wat we gevonden heeft bij onze onderzoek</h2>
                 </div>
             </div>
             <div class="col-md-6 p-5">
@@ -61,16 +61,10 @@
                     </a>
                 </div>
                 <div class="card-body">
-                    <h2 class="card-title text-center">antwoord op de hoofdvragen</h2>
+                    <h2 class="card-title text-center">
+                        meest gestelde vragen</h2>
                 </div>
             </div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-12 mb-5">
-                <h1 class="text-center">Review</h1>
-            </div>
-
         </div>
     </div>
 
