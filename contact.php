@@ -65,7 +65,7 @@
 
     </div>
 
-    <footer class="text-center text-lg-start bg-light text-muted">
+    <footer class="text-center text-lg-start bg-light text-muted fixed-bottom">
 
         <section class="d-flex justify-content-center justify-content-lg-between p-2 border-bottom">
             <div class="container text-center text-md-start mt-5">
